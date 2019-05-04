@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "author": "Zephraph <zephraph@gmail.com>",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
